@@ -1,0 +1,26 @@
+{
+  "name": "kaum-surya",
+  "version": "1.0.0",
+  "description": "dikasih jepe malah minta surya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SangMaestro12/kaum-surya.git"
+  },
+  "keywords": [
+    "kaum",
+    "surya"
+  ],
+  "author": "Sang Maestro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SangMaestro12/kaum-surya/issues"
+  },
+  "homepage": "https://github.com/SangMaestro12/kaum-surya#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
